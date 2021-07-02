@@ -124,3 +124,33 @@ alert(
     " es: " +
     (2 * baseDelRectangulo + 2 * alturaDelRectangulo)
 );*/
+
+/////EJERCICIO 12 MUMUKI///////
+
+/*let numero = prompt("Ingresá un número por favor");
+
+let porcentaje = prompt("Ingresá un porcentaje");
+
+alert("El porcentaje " + porcentaje + " del número " + numero + " es: " + (porcentaje*numero/100);*/
+
+/////EJERCICIO 13 MUMUKI///////
+
+/*let distanciaDelRecorrido = prompt("Ingresá la distancia del recorrido");
+
+let aPie = 5;
+
+let bicicleta = 10;
+
+let auto = 50;
+
+alert(
+  "Para la distancia " +
+    distanciaDelRecorrido +
+    " km en bicicleta el tiempo de viaje es " +
+    (distanciaDelRecorrido * 1 / bicicleta) +
+    " hora/s, a pie " +
+    (distanciaDelRecorrido * 1 / aPie) +
+    " hora/s y en auto " +
+    (distanciaDelRecorrido * 1 / auto) +
+    " hora/s"
+);*/
