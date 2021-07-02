@@ -92,3 +92,35 @@ alert(
     " kilometros a millas es: " +
     cantidadDeKm * 0.621371
 );*/
+
+/////EJERCICIO 10 MUMUKI///////
+
+/*let baseDelTriangulo = prompt("Ingresá el valor de la base del triángulo");
+
+let alturaDelTriangulo = prompt("Ingresá el valor de la altura del triángulo");
+
+alert(
+  "El resultado del área del triángulo con base " +
+    baseDelTriangulo +
+    " y altura " +
+    alturaDelTriangulo +
+    " es: " +
+    (baseDelTriangulo * alturaDelTriangulo) / 2
+);*/
+
+/////EJERCICIO 11 MUMUKI///////
+
+/*let baseDelRectangulo = prompt("Ingresá el valor de la base del rectángulo");
+
+let alturaDelRectangulo = prompt(
+  "Ingresá el valor de la altura del rectángulo"
+);
+
+alert(
+  "El resultado del perímetro del rectángulo con base " +
+    baseDelRectangulo +
+    " y altura " +
+    alturaDelRectangulo +
+    " es: " +
+    (2 * baseDelRectangulo + 2 * alturaDelRectangulo)
+);*/
