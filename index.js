@@ -1,6 +1,3 @@
-
-
-
 ///////EJERCICIO 1 MUMUKI/////////////////
 
 /*let nombre = prompt("¿Cuál es tu nombre?");
@@ -8,7 +5,6 @@
 let apellido = prompt("¿Cuál es tu apellido");
 
 alert("Hola " + nombre + " " + apellido + ", bienvenida a Ada");*/
-
 
 ////////EJERCICIO 2 MUMUKI//////////////
 
@@ -20,7 +16,6 @@ let tercerGusto = prompt("¿Cuál es el tercer gusto?");
 
 alert(
 "Aquí tiene su helado de " + primerGusto + ", " + segundoGusto +" y " +tercerGusto);*/
-
 
 /////EJERCICIO 3 MUMUKI///////
 
@@ -64,9 +59,36 @@ let pais = prompt("¿Cúal es el país?");
 
 alert("La dirección que ha ingresado es: " + calle + " " + numeroDeCalle + " " + departamento + ", " + codigoPostal + ", " + ciudad + ", " + pais);*/
 
+/////EJERCICIO 6 MUMUKI///////
 
+/*let edad = prompt("Ingresá una edad por favor");
 
+alert("El equivalente de " + edad + " en años perros es: " + (edad*7));*/
 
+/////EJERCICIO 7 MUMUKI///////
 
+/*let cantidadDeMinutos = prompt("Ingresá una cantidad de minutos");
 
+alert ("El resultado de la conversión de " + cantidadDeMinutos + " minutos a segundos es: " + (cantidadDeMinutos*60));*/
 
+/////EJERCICIO 8 MUMUKI///////
+
+/*let cantidadDeDias = prompt("Ingresá una cantidad de días por favor");
+
+alert(
+  "El resultado de la conversión de " +
+    cantidadDeDias +
+    " días a segundos es: " +
+    cantidadDeDias * 86400
+);*/
+
+/////EJERCICIO 9 MUMUKI///////
+
+/*let cantidadDeKm = prompt("Ingresá una cantidad de kilómetros por favor");
+
+alert(
+  "El resultado de la conversión de " +
+    cantidadDeKm +
+    " kilometros a millas es: " +
+    cantidadDeKm * 0.621371
+);*/
