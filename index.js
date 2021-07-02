@@ -154,3 +154,37 @@ alert(
     (distanciaDelRecorrido * 1 / auto) +
     " hora/s"
 );*/
+
+/////EJERCICIO 14 MUMUKI///////
+
+let primerEscala = prompt("¿Cúal es la primer escala?");
+
+let duracionPrimerEscala = prompt("¿Cúal es la duración de la primer escala?");
+
+let segundaEscala = prompt("¿Cúal es la segunda escala?");
+
+let duracionSegundaEscala = prompt(
+  "¿Cúal es la duración de la segunda escala?"
+);
+
+let tercerEscala = prompt("¿Cúal es la tercer escala?");
+
+let duracionTercerEscala = prompt("¿Cúal es la duración de la tercer escala?");
+
+alert(
+  "La duración total del vuelo con escala en " +
+    primerEscala +
+    " de duración " +
+    duracionPrimerEscala +
+    " hs, " +
+    segundaEscala +
+    " de duración " +
+    duracionSegundaEscala +
+    " hs y " +
+    tercerEscala +
+    " de duración " +
+    duracionTercerEscala +
+    " hs es: " +
+    (duracionPrimerEscala + duracionSegundaEscala + duracionTercerEscala) +
+    " hs"
+);
