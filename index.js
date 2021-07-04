@@ -157,7 +157,7 @@ alert(
 
 /////EJERCICIO 14 MUMUKI///////
 
-let primerEscala = prompt("¿Cúal es la primer escala?");
+/*let primerEscala = prompt("¿Cúal es la primer escala?");
 
 let duracionPrimerEscala = prompt("¿Cúal es la duración de la primer escala?");
 
@@ -184,7 +184,22 @@ alert(
     tercerEscala +
     " de duración " +
     duracionTercerEscala +
-    " hs es: " +
-    (duracionPrimerEscala + duracionSegundaEscala + duracionTercerEscala) +
-    " hs"
-);
+    " hs es: " +(Number(duracionPrimerEscala)+Number(duracionSegundaEscala)+Number(duracionTercerEscala)) + " hs");*/
+
+/////EJERCICIO 15 MUMUKI///////
+
+/*let numeroDePartida = prompt("Ingresá un número");
+
+let cantidad = prompt("Ingresá una cantidad");
+
+let suma = (Number(numeroDePartida) + Number(cantidad));
+
+alert("Incremento 1: " + suma);
+
+alert("Incremento 2: " + (suma + Number(cantidad)));
+
+alert("Incremento 3: " + (suma + (Number(cantidad)*2)));
+
+alert("Incremento 4: " + (suma + (Number(cantidad)*3)));
+
+alert("Incremento 5: " + (suma + (Number(cantidad)*4)));*/
