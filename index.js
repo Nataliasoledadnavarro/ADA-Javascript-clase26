@@ -203,3 +203,67 @@ alert("Incremento 3: " + (suma + (Number(cantidad)*2)));
 alert("Incremento 4: " + (suma + (Number(cantidad)*3)));
 
 alert("Incremento 5: " + (suma + (Number(cantidad)*4)));*/
+
+/////EJERCICIO 16/////
+
+/*let cantidadCelsius = prompt("Ingresá una cantidad de grados Celsius");
+
+alert("La conversión de " + cantidadCelsius + " grados Celsius a Fahrenheit es: " + ((cantidadCelsius * 1.8) + 32));*/
+
+////EJERCICIO 19////
+
+/*let habitacionDosPersonas = prompt(
+  "Ingresá cuantas habitaciones para dos personas tiene el hotel"
+);
+
+let habitacionTresPersonas = prompt(
+  "Ingresá cuantas habitaciones para tres personas tiene el hotel"
+);
+
+let habitacionCuatroPersonas = prompt(
+  "Ingresá cuantas habitaciones para cuatro personas tiene el hotel"
+);
+
+alert(
+  "El hotel tiene una capacidad de " +
+    (habitacionDosPersonas * 2 +
+      habitacionTresPersonas * 3 +
+      habitacionCuatroPersonas * 4) +
+    " personas"
+);*/
+
+// EJERCICIO 20 //
+
+/*let montoDisponible = prompt("¿Cuál es tu monto disponible?");
+
+let nombrePrimerServicio = prompt("¿Cuál es el nombre primer servicio?");
+
+let montoPrimerServicio = prompt("¿Cuál es el monto del primer servicio?");
+
+let nombreSegundoServicio = prompt("¿Cuál es el nombre segundo servicio?");
+
+let montoSegundoServicio = prompt("¿Cuál es el monto del segundo servicio?");
+
+let nombreTercerServicio = prompt("¿Cuál es el nombre tercer servicio?");
+
+let montoTercerServicio = prompt("¿Cuál es el monto del tercer servicio?");
+
+alert(
+  "Los servicios a pagar son " +
+    nombrePrimerServicio +
+    " de $ " +
+    montoPrimerServicio +
+    ", " +
+    nombreSegundoServicio +
+    " de $ " +
+    montoSegundoServicio +
+    ", " +
+    nombreTercerServicio +
+    " de $ " +
+    montoTercerServicio +
+    ", queda disponible un saldo de $ " +
+    (montoDisponible -
+      montoPrimerServicio -
+      montoSegundoServicio -
+      montoTercerServicio)
+);*/
