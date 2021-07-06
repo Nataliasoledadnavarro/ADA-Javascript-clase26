@@ -267,3 +267,24 @@ alert(
       montoSegundoServicio -
       montoTercerServicio)
 );*/
+
+// EJERCICIO 21 //
+
+/*let cantDeMouse = prompt("Ingresá la cantidad de mouse que deseas comprar");
+
+let cantDeTeclados = prompt("Ingresá la cantidad de teclados que deseas comprar");
+
+let cantDeAuriculares = prompt("Ingresá la cantidad de auriculares que deseas comprar");
+
+let cantDeCuotas = prompt("Ingresá la cantidad de cuotas");
+
+let totalDeMouse = (Number(cantDeMouse)*400); 
+
+let totalDeTeclados = (Number(cantDeTeclados)*800)
+
+let totalDeAuriculares = (Number(cantDeAuriculares)*1500);
+
+let precioTotal = (totalDeMouse + totalDeTeclados + totalDeAuriculares)
+
+
+alert("El detalle de la compra es: mouse " + cantDeMouse + " x $ 400 $ " + totalDeMouse + ", teclado " + cantDeTeclados + " x $ 800 $ " + totalDeTeclados + ", auriculares " + (cantDeAuriculares + " x $ 1500 $ ") + totalDeAuriculares + "." + " El total es $ " + precioTotal + " en " + cantDeCuotas + " cuotas de $ " + (precioTotal/cantDeCuotas));*/
